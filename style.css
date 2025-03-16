@@ -1289,10 +1289,10 @@ color: var(--yellow);
         .review-left{
             display: none;
         }
-    .review-right-carousel{
+        .review-right-carousel{
         position: absolute;
-        top: 160vh;
-     }
+        top: 100vh;
+        }
         .review-right-carousel h1 {
             font-size: 1.3em;
         }
